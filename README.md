@@ -5,7 +5,8 @@
 - 📫 How to reach me ...aguilar-j@javeriana.edu.co
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
-:alien:
+🇨🇴
+👩‍🦱
 
 <! [] ()---
 Joshie-Aguilar/Joshie-Aguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
