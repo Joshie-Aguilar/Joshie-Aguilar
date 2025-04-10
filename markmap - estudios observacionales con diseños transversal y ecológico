@@ -1,0 +1,61 @@
+markmap:
+  htmlParser:
+    selector: h1,h2,h3,ul,ol,li,table,pre
+  activeNode:
+    placement: center
+---
+
+# Estudios Observacionales: Transversales y Ecológicos (Ampliado)
+
+## Autores
+- **Ricardo Cataldo et al.** (Universidad de Valparaíso, Chile)
+- **Philip Sedgwick** (St George's, University of London)
+
+## Resumen Ampliado
+- **Estudios observacionales**:
+  - **Descriptivos**: Descripción de variables (ej. prevalencia).
+  - **Analíticos**: Asociaciones mediante inferencia estadística (OR, PR, correlación).
+- **Diseños clave**:
+  - **Transversales**: Datos en un momento (individuos).
+  - **Ecológicos**: Datos agregados (grupos/poblaciones).
+
+## Ideas Claves (Sedgwick, 2014)
+- **Ejemplo de estudio ecológico**:
+  - **Objetivo**: Asociación entre bienestar infantil y estatus económico en países ricos.
+  - **Unidad de análisis**: Países (no individuos).
+  - **Resultados**:
+    - Correlación negativa entre bienestar infantil y desigualdad de ingresos (r=-0.64, p=0.001).
+    - **No causalidad**: Correlación ≠ causalidad.
+- **Ventajas**:
+  - Coste bajo, uso de datos rutinarios.
+  - Útil para comparaciones macro (ej. políticas públicas).
+- **Limitaciones**:
+  - **Falacia ecológica**: Asumir asociaciones a nivel individual.
+  - **Sesgos**: Datos agregados pueden ocultar variabilidad individual.
+
+## Comparativa de Diseños
+| **Aspecto**               | **Transversales**          | **Ecológicos**            |
+|---------------------------|---------------------------|---------------------------|
+| **Unidad de análisis**    | Individuos                | Grupos (ej. países)       |
+| **Medidas de asociación** | OR, Razón de Prevalencias | Coeficiente de correlación|
+| **Fuerzas**               | Rápidos, bajo costo       | Ideales para macro-tendencias |
+| **Debilidades**           | No causalidad             | Falacia ecológica         |
+
+## Directrices y Control de Sesgos
+- **STROBE**: Reporte estandarizado para estudios observacionales.
+- **Prevención de confusión**:
+  - Estratificación, regresión multivariada.
+  - **En ecológicos**: Evitar inferencias individuales.
+
+## Conclusiones Integradas
+- **Transversales**:
+  - Óptimos para prevalencia; muestreo aleatorio crítico.
+- **Ecológicos**:
+  - Hipótesis macro (ej. desigualdad → bienestar), pero con limitaciones.
+- **Común**: 
+  - Generan hipótesis, no establecen causalidad.
+  - Requieren rigor metodológico (STROBE, control de sesgos).
+
+## Referencias Clave
+- Cataldo et al. (2019). Medwave.
+- Sedgwick (2014). BMJ.
